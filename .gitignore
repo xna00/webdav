@@ -1,5 +1,6 @@
 *.js
 *.map
+webdav-data
 # Logs
 logs
 *.log
